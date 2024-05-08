@@ -1,0 +1,148 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    color: orangered;
+
+}
+
+/*body {
+    background-color: 
+}*/
+
+nav {
+    background: black;
+    padding: 5px, 40px;
+
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 75px;
+}
+
+li {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
+
+button {
+    border-radius: 8px;
+    height: 40px;
+    background:;
+    color:  rgb(230, 71, 13);;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.mainh1 {
+    background: rgb(213, 213, 5);
+}
+
+h1 {
+    color: rgb(230, 71, 13);
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+h4 {
+    color: rgb(230, 71, 13);
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.level1 {
+    height: 400px;
+    width: 400px;
+    background: green;
+    justify-content: space-evenly;
+    margin: 20px;
+    display: grid;
+
+}
+
+.level2 {
+    height: 400px;
+    width: 400px;
+    background: black;
+    margin: 20px;
+    display: grid;
+}
+
+.p1-box {
+    display: flex;
+    margin-left: 170px;
+}
+
+.p2-box {
+    display: flex;
+    margin-left: 170px;
+}
+
+.index-b {
+    background: white;
+    /* filter: blur(8px);
+    /*-webkit-filter: blur(8px);*/
+}
+.p-news {
+    margin: 5px;
+    align-items:flex-start;
+    display:grid;
+    margin-left: 200px;
+    margin-right: 200px;
+    width: 40px;
+}
+.s-news {
+    margin: 5px;
+    align-items:flex-start;
+    display:grid;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.t-news {
+    margin: 5px;
+    align-items:flex-start;
+    display:grid;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.h-news {
+    margin: 5px;
+    align-items:flex-start;
+    display:grid;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.e-news {
+    margin: 5px;
+    align-items:flex-start;
+    display:grid;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.copywrite{
+    background: rgb(128, 120, 120);
+    height:65px;
+    text-align: left;
+}
+.card {
+    /* background: yellowgreen; */
+    padding-top: 20px,;
+}
+.bg {
+    background: rgb(219, 218, 218);
+}
